@@ -20,4 +20,8 @@ The media used for the initial reconstruction was the "Plant Heterotrophic Media
 This file holds the media components as downloaded from KBase. 
 Please note that the media components differ when inspected online and when downloaded from KBase website.
 
+## fluxvector.ori
+IHolds the metabolic phenotype of original reconstruction. Used mainly to inspect for infinite fluxes (-1000/1000) that could
+be indicative of Type III loops.
+
 
