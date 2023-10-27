@@ -26,4 +26,8 @@ Also holds detailed information on the components of Biomass objective function,
 Holds the metabolic phenotype of original reconstruction. Used mainly to inspect for infinite fluxes (-1000/1000) that could
 be indicative of Type III loops.
 
+## PstKB_cobra.xls
+is the same "*.ori" model but exported from COBRA. This file was created in order to make sure that we will not have issues then importing to COBRA.
+This file is going to be used as basis for modifications on Biomass objective functions to reflect, first, changes in Biomass composition as obtained from the work of Guevara.
+
 
