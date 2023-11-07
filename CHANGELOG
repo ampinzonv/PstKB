@@ -1,3 +1,7 @@
+2023-11-07
+* Created new tab "biomass3" to create Guevara`s OF.
+* Assigned new fractions to Biomass3, by mapping PstKB to Guevara`s included dATP,dCTP and dGTP.
+
 2023-10-25
 * Assesed the original Biomass OF in this model.
 * Rename spreadsheet from PlantHeterothrophic to modelData. To better reflect new content.
@@ -6,3 +10,5 @@
 
 2023-10-27
 * Created a XLS version of the PstKB model: PstKB_cobra.
+* Created a biomass3 tab.
+* Some biomass fractions modified (H2O, ATP)
