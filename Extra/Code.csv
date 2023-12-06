@@ -1,0 +1,99 @@
+ID,Reaction Name_x,KB_x,Guevara,Metabolito,Botero 2018,Guevara 2023,PstKB_Ori,PstKB_cobra,NaN,KB_y,Reaction Name_y,Molecule,NaN.1
+cpd00001[c0],H2O,30,52.486,H2O,-,52.48687847,30.0,52.48687847,1.0,-30.0,"H2O_c0,","H2O,",0.0
+cpd00003[c0],NAD,0.0003,0.0003,NAD,-,-,-0.0003,Not included in this version,41.0,-0.0003,"NAD_c0,","C21H26N7O14P2,",-1.0
+cpd00002[c0],ATP,30.027,50.864,ATP,1,50.8640296,-30.027,50.8640296,46.0,-30027.0,"ATP_c0,","C10H13N5O13P3,",-3.0
+cpd00006[c0],NADP,0.00013,0.00013,NADP,,,0.00013,Not included in this version,47.0,-0.00013,"NADP_c0,","C21H25N7O17P3,",-3.0
+cpd00004[c0],NADH,0.00015,0.00015,NADH,,,0.00015,Not included in this version,52.0,-0.00015,"NADH_c0,","C21H27N7O14P2,",-2.0
+cpd00005[c0],NADPH,0.0001,0.0001,NADPH,,,0.0001,Not included in this version,53.0,-0.0001,"NADPH_c0,","C21H26N7O17P3,",-4.0
+cpd00010[c0],CoA,0.000136,0.000136,CoA,,,0.000136,Not included in this version,75.0,-0.000136,"CoA_c0,","C21H32N7O16P3S,",-4.0
+cpd00062[c0],UTP,0.027,0.095373121,UTP,0.0028,0.095373121,0.027,0.095373121,88.0,-0.027,"UTP_c0,","C9H12N2O15P3,",-3.0
+cpd00015[c0],FAD,0.0001,0.0001,FAD,,,0.0001,,98.0,-0.0001,"FAD_c0,","C27H31N9O15P2,",-2.0
+cpd00050[c0],FMN,0.0001,0.0001,,,,,,99.0,-0.0001,"FMN_c0,","C17H19N4O9P,",-2.0
+cpd00016[c0],Pyridoxalphosphate,0.0001,0.0001,Pyridoxal phosphate_c0,,,0.0001,,102.0,-0.0001,Pyridoxal phosphate_c0,"C8H8NO6P,",-2.0
+cpd00017[c0],S-Adenosyl-L-methionine,0.000543,0.000543,S-Adenosyl-L-methionine,,,-0.000543,,106.0,-0.000543,"S-Adenosyl-L-methionine_c0,","C15H23N6O5S,",1.0
+cpd00060[c0],L-Methionine,0.049,0.038393076,methionine,0.002,0.038393076,0.049,0.038393076,107.0,-0.049,"L-Methionine_c0,","C5H11NO2S,",0.0
+cpd00130[c0],L-Malate,0.037,0.037,,,,,,140.0,-0.037,"L-Malate_c0,","C4H4O5,",-2.0
+cpd00023[c0],L-Glutamate,0.13,0.113680655,,,,,,149.0,-0.13,"L-Glutamate_c0,","C5H8NO4,",-1.0
+cpd00053[c0],L-Glutamine,0.071,"0,059905153",glutamine,0.35,0.059905153,0.071,0.059905153,153.0,-0.071,"L-Glutamine_c0,","C5H10N2O3,",0.0
+cpd00035[c0],L-Alanine,0.161,0.125715444,,,,,,159.0,-0.161,"L-Alanine_c0,","C3H7NO2,",0.0
+cpd00038[c0],GTP,0.026,0.026,GTP,0.0039,0.059180604,,,178.0,-0.026,"GTP_c0,","C10H13N5O14P3,",-3.0
+cpd00032[c0],Oxaloacetate,0.0757,0.0757,,,,,,188.0,-0.0757,"Oxaloacetate_c0,","C4H2O5,",-2.0
+cpd00137[c0],Citrate,0.013,0.013,,,,,,196.0,-0.013,"Citrate_c0,","C6H5O7,",-3.0
+cpd00041[c0],L-Aspartate,0.098,0.098,,,,,,197.0,-0.098,"L-Aspartate_c0,","C4H6NO4,",-1.0
+cpd00052[c0],CTP,0.026,0.026,CTP,0.0032,0.050417865,,,244.0,-0.026,"CTP_c0,","C9H13N3O14P3,",-3.0
+cpd00132[c0],L-Asparagine,0.056,0.056,asparagine,0.39,0.07044695,,,255.0,-0.056,"L-Asparagine_c0,","C4H8N2O3,",0.0
+cpd00054[c0],L-Serine,0.1,0.1,,,,,,260.0,-0.1,"L-Serine_c0,","C3H7NO3,",0.0
+cpd00056[c0],TPP,0.0001,0.0001,,,,,,261.0,-0.0001,"TPP_c0,","C12H17N4O7P2S,",-1.0
+cpd00033[c0],Glycine,0.15,0.15,glycine,0.14,0.119759406,,,265.0,-0.15,"Glycine_c0,","C2H5NO2,",0.0
+cpd00066[c0],L-Phenylalanine,0.074,0.074,phenylalanine,0.08,0.06699751,,,275.0,-0.074,"L-Phenylalanine_c0,","C9H11NO2,",0.0
+cpd00159[c0],L-Lactate,0.039,0.039,,,,,,284.0,-0.039,"L-Lactate_c0,","C3H5O3,",-1.0
+cpd00069[c0],L-Tyrosine,0.049,0.049,,,,,,288.0,-0.049,"L-Tyrosine_c0,","C9H11NO3,",0.0
+cpd00161[c0],L-Threonine,0.096,0.096,threonine,0.086,0.084449203,,,298.0,-0.096,"L-Threonine_c0,","C4H9NO3,",0.0
+cpd00080[c0],Glycerol-3-phosphate,0.13,0.13,,,,,,304.0,-0.13,"Glycerol-3-phosphate_c0,","C3H7O6P,",-2.0
+cpd00087[c0],Tetrahydrofolate,0.0001,0.0001,,,,,,310.0,-0.0001,"Tetrahydrofolate_c0,","C19H21N7O6,",-2.0
+cpd00201[c0],10-Formyltetrahydrofolate,0.0001,0.0001,,,,,,318.0,-0.0001,"10-Formyltetrahydrofolate_c0,","C20H21N7O7,",-2.0
+cpd00125[c0],5-10-Methylenetetrahydrofolate,0.0001,0.0001,,,,,,319.0,-0.0001,"5-10-Methylenetetrahydrofolate_c0,","C20H21N7O6,",-2.0
+cpd00345[c0],5-Methyltetrahydrofolate,0.0001,0.0001,,,,,,323.0,-0.0001,"5-Methyltetrahydrofolate_c0,","C20H23N7O6,",-2.0
+cpd00115[c0],dATP,0.03,0.028880831,dATP,0.0027,0.028880831,0.03,0.028880831,377.0,-0.03,"dATP_c0,","C10H13N5O12P3,",-3.0
+cpd00347[c0],5-10-Methenyltetrahydrofolate,0.0001,0.0001,,,,,,393.0,-0.0001,"5-10-Methenyltetrahydrofolate_c0,","C20H20N7O6,",-1.0
+cpd00129[c0],L-Proline,0.096,0.096,,,,,,400.0,-0.096,"L-Proline_c0,","C5H9NO2,",0.0
+cpd00331[c0],cis-Aconitate,0.086,0.086,,,,,,422.0,-0.086,"cis-Aconitate_c0,","C6H3O6,",-3.0
+cpd00163[c0],UDP-xylose,0.766,0.766,D-xylose,0.282,0.282,,,435.0,-0.766,"UDP-xylose_c0,","C14H20N2O16P2,",-2.0
+cpd00604[c0],4-Coumarate,0.55,0.55,,,,,,462.0,-0.55,"4-Coumarate_c0,","C9H7O3,",-1.0
+cpd00241[c0],dGTP,0.026,"0,015417221",dGTP,0.00166,0.015417221,0.026,0.015417221,497.0,-0.026,"dGTP_c0,","C10H13N5O13P3,",-3.0
+cpd00357[c0],TTP,0.03,0.03,dTTP,0.0028,0.028880831,,,539.0,-0.03,"TTP_c0,","C10H14N2O14P3,",-3.0
+cpd01059[c0],Ferulate,0.076,0.076,,,,,,555.0,-0.076,"Ferulate_c0,","C10H9O4,",-1.0
+cpd02197[c0],5-Formyltetrahydrofolate,0.0001,0.0001,,,,,,571.0,-0.0001,"5-Formyltetrahydrofolate_c0,","C20H21N7O7,",-2.0
+cpd00356[c0],dCTP,0.026,"0,015417221",dCTP,0.0018,0.015417221,0.026,0.015417221,575.0,-0.026,"dCTP_c0,","C9H13N3O13P3,",-3.0
+cpd00834[c0],Phosphopantetheine,0.001,0.001,,,,,,623.0,-0.001,"Phosphopantetheine_c0,","C11H21N2O7PS,",-2.0
+cpd00084[c0],L-Cysteine,0.029,0.029,,,,,,636.0,-0.029,"L-Cysteine_c0,","C3H7NO2S,",0.0
+cpd00205[c0],K+,0.307,0.307,,,,,,746.0,-0.307,"K+_c0,","K,",1.0
+cpd00065[c0],L-Tryptophan,0.024,0.024,tryptophan,0.04,0.018506346,,,750.0,-0.024,"L-Tryptophan_c0,","C11H12N2O2,",0.0
+cpd00156[c0],L-Valine,0.127,0.127,,,,,,758.0,-0.127,"L-Valine_c0,","C5H11NO2,",0.0
+cpd00051[c0],L-Arginine,0.11,0.11,,,,,,796.0,-0.11,"L-Arginine_c0,","C6H15N4O2,",1.0
+cpd00099[c0],Cl-,0.21,0.21,,,,,,800.0,-0.21,"Cl-_c0,","Cl,",-1.0
+cpd00214[c0],Palmitate,0.329,0.329,,,,,,821.0,-0.329,"Palmitate_c0,","C16H31O2,",-1.0
+cpd00119[c0],L-Histidine,0.038,0.038,histidine,-,0.034132408,,,822.0,-0.038,"L-Histidine_c0,","C6H9N3O2,",0.0
+cpd00322[c0],L-Isoleucine,0.083,0.083,isoleucine,0.06,0.089035636,,,825.0,-0.083,"L-Isoleucine_c0,","C6H13NO2,",0.0
+cpd00107[c0],L-Leucine,0.172,0.172,,,,,,830.0,-0.172,"L-Leucine_c0,","C6H13NO2,",0.0
+cpd00039[c0],L-Lysine,0.096,0.096,,,,,,834.0,-0.096,"L-Lysine_c0,","C6H15N2O2,",1.0
+cpd01080[c0],ocdca,0.011,0.011,,,,,,844.0,-0.011,"ocdca_c0,","C18H35O2,",-1.0
+cpd19001[c0],alpha-D-Glucose,1.59,1.59,alpha-D-glucose,0.053,0.053,,,929.0,-1.59,"alpha-D-Glucose_c0,","C6H12O6,",0.0
+cpd30321[c0],beta-D-Fructose,0.2271,0.2271,beta-D-fructose,0.053,-,,,930.0,-0.2271,"beta-D-Fructose_c0,","C6H12O6,",0.0
+cpd16443[c0],beta-D-Ribofuranose,0.0377,0.0377,,,,,,941.0,-0.0377,"beta-D-Ribofuranose_c0,","C5H10O5,",0.0
+cpd00104[c0],BIOT,0.0001,0.0001,,,,,,975.0,-0.0001,"BIOT_c0,","C10H15N2O3S,",-1.0
+cpd12844[d0],Phytonadiol_d0,0.000975,0.000975,,,,,,1049.0,-0.000975,"Phytonadiol_d0,","C31H48O2,",0.0
+cpd00536[c0],Oleate,0.015,0.015,,,,,,1092.0,-0.015,"Oleate_c0,","C18H33O2,",-1.0
+cpd25914[c0],ubiquinol(9),0.0001,0.0001,,,,,,1132.0,-0.0001,"ubiquinol(9)_c0,","C54H84O4,",0.0
+cpd16503[c0],Plastoquinol-9,0.000155,0.000155,,,,,,1133.0,-0.000155,"Plastoquinol-9_c0,","C53H82O2,",0.0
+cpd00009[c0],Phosphate,30,30,,,,,,2.0,30.0,"Phosphate_c0,","HO4P,",-2.0
+cpd00012[c0],PPi,0.218,0.218,Pi,30,50.82162542,,,3.0,0.218,"PPi_c0,","HO7P2,",-3.0
+cpd00067[c0],H+,30,30,H+,,50.82162542,,,4.0,30.0,"H+_c0,","H,",1.0
+cpd00008[c0],ADP,30,30,ADP,30,50.82162542,,,48.0,30.0,"ADP_c0,","C10H13N5O10P2,",-2.0
+cpd00014[c0],UDP,0.766,0.766,,,,,,84.0,0.766,"UDP_c0,","C9H12N2O12P2,",-2.0
+cpd11416[c0],Biomass,NaN,NaN,biomass,1,0** or 1*,,,1134.0,1.0,"Biomass_c0,","R,",0.0
+,,,,alanine,0.107,0.125715444,0.161,0.125715444,,,,,
+,,,,cysteine,0.024,0.02357061,,,,,,,
+,,,,aspartic acid,0.162,0.092200102,,,,,,,
+,,,,glutamic acid,0.39,0.113680655,0.13,0.113680655,,,,,
+,,,,lysine,0.001,0.111221065,0.096,,,,,,
+,,,,leucine,0.14,0.149333364,,,,,,,
+,,,,proline,0.01,0.084620896,,,,,,,
+,,,,arginine,-,0.083303507,,,,,,,
+,,,,serine,0.21,0.136485824,,,,,,,
+,,,,valine,-,0.115457465,,,,,,,
+,,,,tyrosine,0.03,0.048038431,,,,,,,
+,,,,palmitoleic acid,1,0.040430234,,,,,,,
+,,,,palmitic acid,-,0.000304255,,,,,,,
+,,,,linolenic acid,-,0.118671485,,,,,,,
+,,,,linoleic acid,-,0.040003311,,,,,,,
+,,,,stearic acid,-,0.000455481,,,,,,,
+,,,,oleic acid,-,0.003467474,,,,,,,
+,,,,Ppi,,0.251163514,,,,,,,
+,,,,Coniferyl alcohol,0.048,0.048,,,,,,,
+,,,,synapyl alcohol,0.056,0.056,,,,,,,
+,,,,coumaryl alcohol,0.04,0.04,,,,,,,
+,,,,sucrose,0.096,-,,,,,,,
+,,,,cellulose,0.305,-,,,,,,,
+,,,,starch,0.265,-,,,,,,,
+,,,,,,,,,,,,,
