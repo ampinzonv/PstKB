@@ -1,5 +1,6 @@
 2023-12-06
 * Created the "Rosetta" sheet in the modelData.xls file. I use it to finish organizing and curating the data processed in the Jupyter Notebook.
+* Created the Comparative OFs.1 sheet with the data a bit more unified. My doubts are in the comments on the Rosetta sheet.
 
 2023-12-05
 * Created a new sheet in the excel file modelData.xls named "biomass3.1". This is to pass it through the Jupyter Notebook to separate and create data frames.
