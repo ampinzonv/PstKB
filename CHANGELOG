@@ -1,3 +1,10 @@
+2023-12-06
+* Created the "Rosetta" sheet in the modelData.xls file. I use it to finish organizing and curating the data processed in the Jupyter Notebook.
+
+2023-12-05
+* Created a new sheet in the excel file modelData.xls named "biomass3.1". This is to pass it through the Jupyter Notebook to separate and create data frames.
+* Created the Extra folder, where the ModeloPython.ipynb file, a Jupyter Notebook, is located. I use it to work with the excel data. There are also several auxiliary files resulting from tests I am conducting.
+
 2023-11-07
 * Created new tab "biomass3" to create Guevara`s OF.
 * Assigned new fractions to Biomass3, by mapping PstKB to Guevara`s included dATP,dCTP and dGTP.
