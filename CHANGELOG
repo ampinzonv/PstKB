@@ -1,3 +1,6 @@
+2024-01-18
+* Created the dev branch, and restored the main branch to Nov 7, 2023 fraction values
+
 2023-12-06
 * Created the "Rosetta" sheet in the modelData.xls file. I use it to finish organizing and curating the data processed in the Jupyter Notebook.
 * Created the Comparative OFs.1 sheet with the data a bit more unified. My doubts are in the comments on the Rosetta sheet.
